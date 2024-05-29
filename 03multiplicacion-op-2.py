@@ -9,7 +9,8 @@ C = [[0, 0], [0, 0]] # Matriz C que almacenar√° el resultado de la multiplicaci√
 for i in range(len(A)): # Recorre cada fila de la matriz A
    for j in range(len(B[0])): # Recorre cada columna de la matriz B
        for k in range(len(B)): # Recorre cada fila de la matriz B
-           C[i][j] += A[i][k] * B[k][j] # Multiplica el elemento correspondiente de la matriz A con el elemento correspondiente de la matriz B y lo suma al elemento correspondiente de la matriz C
+           C[i][j] += A[i][k] * B[k][j] # Multiplica el elemento correspondiente de la matriz A con el
+           # elemento correspondiente de la matriz B y lo suma al elemento correspondiente de la matriz C
 
 # Imprime el resultado
 for r in C: # Recorre cada fila de la matriz C
