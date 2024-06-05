@@ -23,7 +23,9 @@ class Estudiante:
         print(f"Nombre: {self.nombre}, Edad: {self.edad}, Curso: {self.curso}")
 
 
-# Crear una instancia de la clase Estudiante con nombre Ana, edad 18 y curso Matemáticas
+# Crear una instancia de la clase Estudiante
 un_estudiante = Estudiante(nombre="Ana", edad=18, curso="Matemáticas")
+dos_estudiantes = Estudiante(nombre="camilo", edad=19, curso="Calculo I")
 # Llama al método mostrar_informacion() para imprimir los detalles del estudiante
 un_estudiante.mostrar_informacion()
+dos_estudiantes.mostrar_informacion()

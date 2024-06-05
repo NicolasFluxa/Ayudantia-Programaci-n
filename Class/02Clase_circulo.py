@@ -8,6 +8,7 @@ Crea una instancia de la clase y muestra el área y la circunferencia.
 # Importamos el módulo math para tener acceso a funciones matemáticas
 import math
 
+
 # Definición de la clase Circulo
 class Circulo:
     # Método constructor con un parámetro para el radio
