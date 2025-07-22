@@ -7,7 +7,8 @@ Este material es preparado y gestionado por Nicolás Fluxá Morán, Ayudante del
 ## Sobre el Ayudante
 
 Soy Nicolás, estudiante de Ingeniería Civil Informática, con un gran entusiasmo por el desarrollo de software y la programación científica. Mi objetivo como ayudante es facilitar tu camino en el aprendizaje de Python, mostrando cómo este lenguaje puede ser una herramienta poderosa y versátil para resolver problemas cotidianos y desafíos más complejos.
-Puedes conocer más sobre mi trayectoria profesional en mi perfil de [LinkedIn](https://www.linkedin.com/in/nflux%C3%A1/). ## Estructura del Repositorio 📂
+Puedes conocer más sobre mi trayectoria profesional en mi perfil de [LinkedIn](https://www.linkedin.com/in/nflux%C3%A1/).
+## Estructura del Repositorio 📂
 
 Este repositorio está organizado en carpetas semanales, desde la `semana-01` hasta la `semana-10`, siguiendo el progreso del curso. Dentro de cada carpeta semanal, encontrarás:
 
@@ -41,6 +42,7 @@ A lo largo de estas 10 semanas, cubriremos los fundamentos esenciales de la prog
 * **Semana 6-7**: Introducción a estructuras de datos: Listas (creación, acceso, métodos básicos y avanzados).
 * **Semana 8-9**: Funciones (definición, parámetros, retorno, alcance, argumentos por defecto y por palabra clave).
 * **Semana 10**: Proyecto integrador aplicando los conceptos aprendidos.
+* **Triangulos**: Un regalito extra.
 
 ## Prerrequisitos 🛠️
 
