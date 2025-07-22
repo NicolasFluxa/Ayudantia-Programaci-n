@@ -24,7 +24,7 @@ print("Mi nombre es:", nombre_completo)
 # Imprimir nombre de la asignatura y sección
 # Personaliza estos valores según corresponda.
 asignatura = "Ayudantía de Programación"
-seccion = "Tu Sección Aquí (ej: Sección 1)" # El estudiante puede personalizar esto
+seccion = "Tu Sección Aquí (ej: Sección 1)"
 print("Asignatura:", asignatura)
 print("Sección:", seccion)
 
